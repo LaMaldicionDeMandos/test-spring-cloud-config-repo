@@ -1,0 +1,2 @@
+property: "Service one ${ambiente}"
+ambiente: Git Default
